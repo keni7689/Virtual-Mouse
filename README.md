@@ -94,7 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Contact
 Yogesh Shejul - yogeshshejul54@gmail.com
 
-Project Link: [https://github.com/yourusername/virtual-mouse](https://github.com/keni7689/virtual-mouse)
+Project Link: https://github.com/keni7689/Virtual-Mouse/tree/main
 
 ## 🙏 Acknowledgments
 - [MediaPipe](https://mediapipe.dev/)
