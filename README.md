@@ -23,7 +23,7 @@ Virtual Mouse is an innovative Python application that allows you to control you
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/virtual-mouse.git
+git clone https://github.com/keni7689/virtual-mouse.git
 cd virtual-mouse
 ```
 
@@ -86,20 +86,15 @@ comtypes
 - Make sure your webcam is working correctly
 - Close other applications using the webcam
 
-## 🤝 Contributing
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+
 
 ## 📝 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
-Your Name - your.email@example.com
+Yogesh Shejul - yogeshshejul54@gmail.com
 
-Project Link: [https://github.com/yourusername/virtual-mouse](https://github.com/yourusername/virtual-mouse)
+Project Link: [https://github.com/yourusername/virtual-mouse](https://github.com/keni7689/virtual-mouse)
 
 ## 🙏 Acknowledgments
 - [MediaPipe](https://mediapipe.dev/)
